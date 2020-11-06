@@ -10,8 +10,8 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Technologies.</h1>
-<h1 align="center"> Welcome to Mithun Software Solutions.......We have a demo on  DevOps with AWS on 14th Nov 2020  at 7 PM IST for new batch. , Timings are 7.30 AM to 9.00 AM  . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
-<hr>
+<h1 align="center"> Welcome to Mithun Software Solutions.......We have a demo on  DevOps with AWS on 10th oct 2020  at 7 PM IST for new batch. , Timings are 6.00 AM to 7.30 AM  . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<hr
 <div style="text-align: center;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
