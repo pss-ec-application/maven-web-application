@@ -25,7 +25,7 @@
                <!-- <sonar.login>875fcbbaa1557683f2c8fe215558b28bd00e7e13</sonar.login> -->
 		 
                 <sonar.login>admin</sonar.login>
-		<sonar.password>admin</sonar.password> 
+		<sonar.password>omsairam</sonar.password> 
               
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
