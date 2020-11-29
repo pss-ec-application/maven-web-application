@@ -1,11 +1,13 @@
 node
 {
     def MavenHome = tool name: "maven-3.6.3"
+    properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '5', daysToKeepStr: '', numToKeepStr: '5')), pipelineTriggers([pollSCM('* * * * *')])])
     
         
     stage('CheckOutMode')
     {
         git branch: 'development', credentialsId: '689aee03-a25a-427a-8bff-99353f484c91', url: 'https://github.com/pss-ec-application/maven-web-application.git'
+        
         
     }
     stage('Build')
