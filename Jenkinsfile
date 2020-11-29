@@ -12,6 +12,7 @@ node
     {
         sh "${MavenHome}/bin/mvn clean package"
     }
+    /*
     stage('ExecuteSonarQubeReport')
     {
         sh "${MavenHome}/bin/mvn sonar:sonar"
@@ -36,5 +37,5 @@ priyanka''', cc: 'priyankaamudala@gmail.com', from: '', replyTo: '', subject: 'B
     }
     
     
-
+*/
 }
